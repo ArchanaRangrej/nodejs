@@ -872,7 +872,7 @@
       "resolved": "https://registry.npmjs.org/mongodb-core/-/mongodb-core-2.1.17.tgz",
       "version": "2.1.17"
     },
-    "mongoose": "^4.13.6",
+    "mongoose": "^5.7.5",
     "mpath": {
       "integrity": "sha1-elj3iem1/TyUUgY0FXlg8mvV70Q=",
       "resolved": "https://registry.npmjs.org/mpath/-/mpath-0.3.0.tgz",
