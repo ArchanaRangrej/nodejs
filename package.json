@@ -1253,7 +1253,7 @@
       "version": "0.16.1"
     },
     "sendmail": "^1.2.0",
-    "sequelize": "^4.28.2",
+    "sequelize": "^5.15.1",
     "serve-static": {
       "integrity": "sha512-hSMUZrsPa/I09VYFJwa627JJkNs0NrfL1Uzuup+GqHfToR2KcsXFymXSV90hoyw3M+msjFuQly+YzIH/q0MGlQ==",
       "requires": {
