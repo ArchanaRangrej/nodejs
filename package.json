@@ -140,7 +140,7 @@
       "resolved": "https://registry.npmjs.org/base64url/-/base64url-2.0.0.tgz",
       "version": "2.0.0"
     },
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "bcrypt-pbkdf": {
       "integrity": "sha1-Y7xdy2EzG5K8Bf1SiVPDNGKgb40=",
       "requires": {
