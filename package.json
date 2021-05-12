@@ -940,7 +940,7 @@
       "resolved": "https://registry.npmjs.org/node-pre-gyp/-/node-pre-gyp-0.6.36.tgz",
       "version": "0.6.36"
     },
-    "nodemailer": "^4.4.0",
+    "nodemailer": "^6.4.16",
     "nopt": {
       "integrity": "sha1-0NRoWv1UFRk8jHUFYC0NF81kR00=",
       "requires": {
